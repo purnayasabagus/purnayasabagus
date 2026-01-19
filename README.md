@@ -83,31 +83,3 @@ I'm **Bagus Purnayasa**, an Information Systems student.
     <img src="https://visitcount.itsvg.in/api?id=bagus-purnayasa&icon=0&color=0" />
   </a>
 </div>
-name: Generate Snake
-
-on:
-  schedule: # Berjalan otomatis setiap 24 jam
-    - cron: "0 0 * * *"
-  workflow_dispatch: # Memungkinkan kamu menjalankan manual
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate Snake Animation
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Push Snake to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
