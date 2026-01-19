@@ -83,5 +83,14 @@ I'm **Bagus Purnayasa**, an Information Systems student.
     <img src="https://visitcount.itsvg.in/api?id=bagus-purnayasa&icon=0&color=0" />
   </a>
 </div>
-## 🐍 My Contribution Snake
-![Snake Animation](https://github.com/bagus-purnayasa/bagus-purnayasa/blob/output/github-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/purnayasabagus/purnayasabagus/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/purnayasabagus/purnayasabagus/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/purnayasabagus/purnayasabagus/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/purnayasabagus/purnayasabagus/output/snake.svg" alt="Snake animation" />
+
+###
