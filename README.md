@@ -23,7 +23,7 @@ I'm **Bagus Purnayasa**, an Information Systems student.
   <a href="https://linkedin.com/in/bagus-purnayasa">
     <img src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB" />
   </a>
-  <a href="https://instagram.com/baguspurnayasa">
+  <a href="https://www.instagram.com/purnayasa_11/">
     <img src="https://img.shields.io/badge/Instagram-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB" />
   </a>
 </p>
