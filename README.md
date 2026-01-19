@@ -83,3 +83,5 @@ I'm **Bagus Purnayasa**, an Information Systems student.
     <img src="https://visitcount.itsvg.in/api?id=bagus-purnayasa&icon=0&color=0" />
   </a>
 </div>
+## 🐍 My Contribution Snake
+![Snake Animation](https://github.com/bagus-purnayasa/bagus-purnayasa/blob/output/github-snake.svg)
