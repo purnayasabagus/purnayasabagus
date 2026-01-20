@@ -27,8 +27,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bagus-purnayasa&color=3a8296&label=Profile%20Views" />
-  <img src="https://img.shields.io/github/followers/bagus-purnayasa?label=Followers&color=3a8296&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=baguspurnayasa&color=3a8296&label=Profile%20Views" />
+  <img src="https://img.shields.io/github/followers/baguspurnayasa?label=Followers&color=3a8296&style=flat" />
 </p>
 
 ---
@@ -54,12 +54,12 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bagus-purnayasa&show_icons=true&theme=radical&title_color=61DAFB&icon_color=61DAFB&text_color=C8E1FF&bg_color=091519&border_color=3a8296" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagus-purnayasa&layout=compact&langs_count=8&theme=radical&title_color=61DAFB&text_color=C8E1FF&bg_color=091519&border_color=3a8296" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=baguspurnayasa&show_icons=true&theme=radical&title_color=61DAFB&icon_color=61DAFB&text_color=C8E1FF&bg_color=091519&border_color=3a8296" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baguspurnayasa&layout=compact&langs_count=8&theme=radical&title_color=61DAFB&text_color=C8E1FF&bg_color=091519&border_color=3a8296" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=bagus-purnayasa&theme=radical&background=091519&currStreakLabel=61DAFB&ring=3a8296&fire=61DAFB" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=baguspurnayasa&theme=radical&background=091519&currStreakLabel=61DAFB&ring=3a8296&fire=61DAFB" width="100%" />
 </p>
 
 ---
@@ -69,7 +69,7 @@
 </p>
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=bagus-purnayasa&icon=0&color=0" />
+  <img src="https://visitcount.itsvg.in/api?id=baguspurnayasa&icon=0&color=0" />
 </div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/purnayasabagus/purnayasabagus/output/pacman-contribution-graph-dark.svg">
