@@ -12,7 +12,7 @@
 
 ---
 
-### 📬 Connect with Me  
+### 📬 Connect with Me
 
 <p align="center">
   <a href="mailto:purnayasabagus88@gmail.com">
@@ -54,8 +54,8 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bagus-purnayasa&show_icons=true&theme=radical&title_color=61DAFB&icon_color=61DAFB&text_color=C8E1FF&bg_color=091519&border_color=3a8296" height="170em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagus-purnayasa&layout=compact&langs_count=8&theme=radical&title_color=61DAFB&text_color=C8E1FF&bg_color=091519&border_color=3a8296" height="170em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bagus-purnayasa&show_icons=true&theme=radical&title_color=61DAFB&icon_color=61DAFB&text_color=C8E1FF&bg_color=091519&border_color=3a8296" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagus-purnayasa&layout=compact&langs_count=8&theme=radical&title_color=61DAFB&text_color=C8E1FF&bg_color=091519&border_color=3a8296" height="170" />
 </p>
 
 <p align="center">
